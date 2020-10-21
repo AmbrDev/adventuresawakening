@@ -1,8 +1,8 @@
 # Update 0.5.2
-## 更新された材料!
-### - 英語がアメリカ版でひどいため、いくつかの単語が変更されました。
-### - マルチプレイヤーは、すぐに追加されます。
-### - 従業員は一人ではなく、今一緒にゲームに取り組んでいます。
-## 現在取り組んでいます:
-### - Valk のアニメーションを修正します。
-### - 音楽。
+## Updated material!
+### - Some words were changed because english was terrible in the USA version.
+### - Multiplayer will be added soon.
+### - Employees work on the game together now instead of alone.
+## Currently working on:
+### - Fixing the animations for Valk.
+### - Music.
