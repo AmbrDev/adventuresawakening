@@ -3,7 +3,7 @@ namespace SpriteKind {
     export const KillerNPC = SpriteKind.create()
 }
 sprites.onOverlap(SpriteKind.Player, SpriteKind.NPC, function (sprite, otherSprite) {
-    game.splash("Shop keeper: Welcome good sir would you like a battle? no??? TO BAD")
+    game.splash("Shop keeper: Welcome good sir would you like a battle? No? TO BAD!")
     tiles.setTilemap(tiles.createTilemap(hex`1000100009090909090909090909090909090909090909090909090909090909090909090909090909090909090909090909090909090909090909090909090909090909090909090909090909090909090909090902010101010101010101010101070909030a0a0a0a0a0a0a0a0a0a0a0a060909030a0a0a0a0a0a0a0a0a0a0a0a060909030a0a0a0a0a0a0a0a0a0a0a0a060909030a0a0a0a0a0a0a0a0a0a0a0a060909030a0a0a0a0a0a0a0a0a0a0a0a060909030a0a0a0a0a0a0a0a0a0a0a0a060909030a0a0a0a0a0a0a0a0a0a0a0a0609090405050505050505050505050508090909090909090909090909090909090909090909090909090909090909090909`, img`
         . . . . . . . . . . . . . . . . 
         . . . . . . . . . . . . . . . . 
