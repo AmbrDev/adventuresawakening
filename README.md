@@ -1,1 +1,5 @@
-# THIS PROJECT HAS BEEN REUPLOADED DUE TO OUR COMPANY NAME CHANGE TO MATCH. Any DMCA sent will be sent to this url instead now!
+# Update 0.5.2
+## Updated material!
+### - Some words were changed because english was terrible in the USA version.
+### - Multiplayer will be added soon.
+### - Employees work on the game together now instead of alone.
