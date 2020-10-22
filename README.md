@@ -1,9 +1,3 @@
-REPORT BUGS TO ISSUES!
-# Update 0.5.2
-## Updated material!
-### - Some words were changed because english was terrible in the USA version.
-### - Multiplayer will be added soon.
-### - Employees work on the game together now instead of alone.
-## Currently working on:
-### - Fixing the animations for Valk.
-### - Music.
+# Adventures Awakening
+## Adventures Awakening 0.5.3 will be fixing a few bugs and allowing better security. There will be a chat function to chat with your friends.
+## Chat will only be functionable on the LATEST VERSION.
