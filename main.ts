@@ -111,7 +111,7 @@ game.setDialogFrame(img`
     f f f f f f f f f f f f f f f 
     `)
 game.setDialogTextColor(8)
-game.splash("I here some thing outside ")
+game.splash("I hear some thing outside ")
 mySprite2 = sprites.create(img`
     f f f f f f f f f f f f f f f f 
     f 2 2 2 2 2 2 2 2 2 2 2 2 2 2 f 
