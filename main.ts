@@ -5,22 +5,22 @@ namespace SpriteKind {
 sprites.onOverlap(SpriteKind.Player, SpriteKind.NPC, function (sprite, otherSprite) {
     game.splash("Shop keeper: Welcome good sir would you like a battle? no??? TO BAD")
     tiles.setTilemap(tiles.createTilemap(hex`1000100009090909090909090909090909090909090909090909090909090909090909090909090909090909090909090909090909090909090909090909090909090909090909090909090909090909090909090902010101010101010101010101070909030a0a0a0a0a0a0a0a0a0a0a0a060909030a0a0a0a0a0a0a0a0a0a0a0a060909030a0a0a0a0a0a0a0a0a0a0a0a060909030a0a0a0a0a0a0a0a0a0a0a0a060909030a0a0a0a0a0a0a0a0a0a0a0a060909030a0a0a0a0a0a0a0a0a0a0a0a060909030a0a0a0a0a0a0a0a0a0a0a0a0609090405050505050505050505050508090909090909090909090909090909090909090909090909090909090909090909`, img`
-        . . . . . . . . . . . . . . . . 
-        . . . . . . . . . . . . . . . . 
-        . . . . . . . . . . . . . . . . 
-        . . . . . . . . . . . . . . . . 
-        . . . . . . . . . . . . . . . . 
-        . 2 2 2 2 2 2 2 2 2 2 2 2 2 2 . 
-        . 2 . . . . . . . . . . . . 2 . 
-        . 2 . . . . . . . . . . . . 2 . 
-        . 2 . . . . . . . . . . . . 2 . 
-        . 2 . . . . . . . . . . . . 2 . 
-        . 2 . . . . . . . . . . . . 2 . 
-        . 2 . . . . . . . . . . . . 2 . 
-        . 2 . . . . . . . . . . . . 2 . 
-        . 2 2 2 2 2 2 2 2 2 2 2 2 2 2 . 
-        . . . . . . . . . . . . . . . . 
-        . . . . . . . . . . . . . . . . 
+        2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+        2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+        2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+        2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+        2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+        2 . . . . . . . . . . . . . . 2 
+        2 . . . . . . . . . . . . . . 2 
+        2 . . . . . . . . . . . . . . 2 
+        2 . . . . . . . . . . . . . . 2 
+        2 . . . . . . . . . . . . . . 2 
+        2 . . . . . . . . . . . . . . 2 
+        2 . . . . . . . . . . . . . . 2 
+        2 . . . . . . . . . . . . . . 2 
+        2 . . . . . . . . . . . . . . 2 
+        2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+        2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
         `, [myTiles.transparency16,myTiles.tile2,myTiles.tile11,myTiles.tile12,myTiles.tile13,myTiles.tile14,myTiles.tile8,myTiles.tile9,myTiles.tile15,sprites.dungeon.darkGroundCenter,myTiles.tile1], TileScale.Sixteen))
     mySprite.setPosition(100, 100)
     mySprite4.destroy()
@@ -114,22 +114,22 @@ sprites.onOverlap(SpriteKind.Player, SpriteKind.Projectile, function (sprite, ot
 })
 sprites.onOverlap(SpriteKind.Player, SpriteKind.Enemy, function (sprite, otherSprite) {
     tiles.setTilemap(tiles.createTilemap(hex`1000100009090909090909090909090909090909090909090909090909090909090909090909090909090909090909090909090909090909090909090909090909090909090909090909090909090909090909090902010101010101010101010101070909030a0a0a0a0a0a0a0a0a0a0a0a060909030a0a0a0a0a0a0a0a0a0a0a0a060909030a0a0a0a0a0a0a0a0a0a0a0a060909030a0a0a0a0a0a0a0a0a0a0a0a060909030a0a0a0a0a0a0a0a0a0a0a0a060909030a0a0a0a0a0a0a0a0a0a0a0a060909030a0a0a0a0a0a0a0a0a0a0a0a0609090405050505050505050505050508090909090909090909090909090909090909090909090909090909090909090909`, img`
-        . . . . . . . . . . . . . . . . 
-        . . . . . . . . . . . . . . . . 
-        . . . . . . . . . . . . . . . . 
-        . . . . . . . . . . . . . . . . 
-        . . . . . . . . . . . . . . . . 
-        . 2 2 2 2 2 2 2 2 2 2 2 2 2 2 . 
-        . 2 . . . . . . . . . . . . 2 . 
-        . 2 . . . . . . . . . . . . 2 . 
-        . 2 . . . . . . . . . . . . 2 . 
-        . 2 . . . . . . . . . . . . 2 . 
-        . 2 . . . . . . . . . . . . 2 . 
-        . 2 . . . . . . . . . . . . 2 . 
-        . 2 . . . . . . . . . . . . 2 . 
-        . 2 2 2 2 2 2 2 2 2 2 2 2 2 2 . 
-        . . . . . . . . . . . . . . . . 
-        . . . . . . . . . . . . . . . . 
+        2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+        2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+        2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+        2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+        2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+        2 . . . . . . . . . . . . . . 2 
+        2 . . . . . . . . . . . . . . 2 
+        2 . . . . . . . . . . . . . . 2 
+        2 . . . . . . . . . . . . . . 2 
+        2 . . . . . . . . . . . . . . 2 
+        2 . . . . . . . . . . . . . . 2 
+        2 . . . . . . . . . . . . . . 2 
+        2 . . . . . . . . . . . . . . 2 
+        2 . . . . . . . . . . . . . . 2 
+        2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+        2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
         `, [myTiles.transparency16,myTiles.tile2,myTiles.tile11,myTiles.tile12,myTiles.tile13,myTiles.tile14,myTiles.tile8,myTiles.tile9,myTiles.tile15,sprites.dungeon.darkGroundCenter,myTiles.tile1], TileScale.Sixteen))
     mySprite.setPosition(100, 100)
     mySprite2.destroy()
@@ -247,7 +247,7 @@ game.setDialogFrame(img`
     f f f f f f f f f f f f f f f 
     `)
 game.setDialogTextColor(8)
-game.splash("You here some thing outside ")
+game.splash("You hear some thing outside ")
 mySprite2 = sprites.create(img`
     f f f f f f f f f f f f f f f f 
     f 2 2 2 2 2 2 2 2 2 2 2 2 2 2 f 
@@ -287,3 +287,30 @@ mySprite4 = sprites.create(img`
     . . . . . f f . . f f . . . . . 
     `, SpriteKind.NPC)
 mySprite4.setPosition(600, 200)
+mySprite5 = sprites.create(img`
+    ........................
+    ........................
+    ........................
+    ........................
+    ..........ffff..........
+    ........ff1111ff........
+    .......fb111111bf.......
+    .......f11111111f.......
+    ......fb11111111bf......
+    ......fb11111111bf......
+    ......fbbb1111bbbf......
+    ......f2bbfbbfbbbf......
+    ......f2bcf11fcbcf......
+    .......f2111111bf.......
+    ......fff2d212dffff.....
+    ....f211122fbf21112f....
+    ....f12121ffff12121f....
+    ....f2fbffffff2f2f2f....
+    .........ffffff.........
+    ...........fff..........
+    ........................
+    ........................
+    ........................
+    ........................
+`, SpriteKind.KillerNPC)
+mySprite5.setPosition(601, 201)
