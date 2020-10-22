@@ -3,7 +3,7 @@ namespace SpriteKind {
     export const KillerNPC = SpriteKind.create()
 }
 sprites.onOverlap(SpriteKind.Player, SpriteKind.NPC, function (sprite, otherSprite) {
-    game.splash("Shop keeper: Welcome good sir would you like a battle? no??? TO BAD")
+    game.splash("Shop keeper: Welcome good sir would you like a battle? No. TOO BAD!")
     tiles.setTilemap(tilemap`level`)
     mySprite.setPosition(100, 100)
     mySprite4.destroy()
@@ -111,7 +111,7 @@ game.setDialogFrame(img`
     f f f f f f f f f f f f f f f 
     `)
 game.setDialogTextColor(8)
-game.splash("You here some thing outside ")
+game.splash("I here some thing outside ")
 mySprite2 = sprites.create(img`
     f f f f f f f f f f f f f f f f 
     f 2 2 2 2 2 2 2 2 2 2 2 2 2 2 f 
