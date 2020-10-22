@@ -41,8 +41,8 @@ sprites.onOverlap(SpriteKind.Player, SpriteKind.Projectile, function (sprite, ot
     info.setLife(2)
     tiles.setTilemap(tilemap`level_0`)
     mySprite.setPosition(100, 80)
-    game.splash("You: what was that?")
-    game.splash("You: I better go to the store")
+    game.splash("What was that?")
+    game.splash("I better go to the store")
 })
 sprites.onOverlap(SpriteKind.Player, SpriteKind.Enemy, function (sprite, otherSprite) {
     tiles.setTilemap(tilemap`level_1`)
@@ -151,3 +151,4 @@ mySprite4 = sprites.create(img`
     . . . . . f f . . f f . . . . . 
     `, SpriteKind.NPC)
 mySprite4.setPosition(600, 200)
+// this sets the players x and y coordinates to the bed.
