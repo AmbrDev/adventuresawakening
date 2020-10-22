@@ -6,3 +6,5 @@
 ### If you want to make a Mod for our game do #AdventuresAwakeningModification in your repository description. It will be reviewed for release. Fork the repository and add your modifications in the main.ts area (unless you know what you are doing, you can edit any file.) All modifications will go to the repository in our orginization named "aa-mods".
 
 ### Online multiplayer is being worked on as we speak. This is a feature that will be in a great release.
+
+### Notice: The bug with the website in 0.5.2 was patched in the 0.5.3 update. https://github.com/tabletopgame/adventuresawakening/security/advisories/GHSA-r3g8-9vf3-mwgm
