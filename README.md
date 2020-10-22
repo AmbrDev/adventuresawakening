@@ -20,3 +20,9 @@
 
 ## If you want to help.
 #### Email us @ tabletopgame@usa.com if you want to help make the game, add extra features, report something, or just talk! If you want to be able to use our game and distribute it, get our PERMISSION!
+
+## How to install .exe version
+#### COMING SOON!
+
+## How to sell our game.
+#### First, you need to get permission from us, after that, you need to publish. Profits made will be split among us based on how popular the product gets.
