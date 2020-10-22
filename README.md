@@ -18,6 +18,8 @@
 
 #### THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
+# Extra info
+
 ## If you want to help.
 #### Email us @ tabletopgame@usa.com if you want to help make the game, add extra features, report something, or just talk! If you want to be able to use our game and distribute it, get our PERMISSION!
 
@@ -26,3 +28,10 @@
 
 ## How to sell our game.
 #### First, you need to get permission from us, after that, you need to publish. Profits made will be split among us based on how popular the product gets.
+
+## Anti-piracy (of payed full version when it comes out)
+#### Software piracy (the illegal copying of software programs) is a worldwide problem — more than $11 billion is lost to piracy every year. Because software is valuable, and it is easy to create an exact copy of a program from a single computer, software piracy is widespread.
+
+#### The illegal copying of software programs is a crime! In the United States and many other countries, copyright law provides for severe civil and criminal penalties for the unauthorized reproduction or distribution of copyrighted material. Copyrighted material includes, but is not limited to, computer programs and accompanying sounds, images and text. Under U.S. law, infringement may result in civil damages of up to $150,000 and/or criminal penalties of up to five years imprisonment and/or a $250,000 fine.
+
+#### Please join Tabletop in its piracy prevention efforts. You can report incidents of software piracy to the SIIA (see below section “Report Piracy to the SIIA.”) Also, you can help your business avoid serious problems with sound software asset management practices as explained in the section below.
