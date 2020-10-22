@@ -151,6 +151,3 @@ mySprite4 = sprites.create(img`
     . . . . . f f . . f f . . . . . 
     `, SpriteKind.NPC)
 mySprite4.setPosition(600, 200)
-for (let index = 0; index < 100; index++) {
-    music.playMelody("E B C5 A B G A F ", 100)
-}
