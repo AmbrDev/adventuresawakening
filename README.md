@@ -1,6 +1,6 @@
 # Adventures Awakening
 ## 0.5.3
-### Adventures Awakening 0.5.3 will be fixing a few bugs and allowing better security. There will be a chat function to chat with your friends. Chat will only be functionable on the LATEST VERSION.
+#### Adventures Awakening 0.5.3 will be fixing a few bugs and allowing better security. There will be a chat function to chat with your friends. Chat will only be functionable on the LATEST VERSION.
 
 #### Music engine is still currently being built. Many of the developers are still working on it, there will be basic music.
 
@@ -18,3 +18,5 @@
 
 #### THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
+## If you want edit.
+#### If you want to edit or modify Adventures Awakening to distribute to the public, please change all assets. (other than the tiles, tiles can stay.)
