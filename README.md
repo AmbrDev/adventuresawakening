@@ -1,3 +1,4 @@
+REPORT BUGS TO ISSUES!
 # Update 0.5.2
 ## Updated material!
 ### - Some words were changed because english was terrible in the USA version.
